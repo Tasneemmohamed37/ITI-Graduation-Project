@@ -3,8 +3,6 @@
 Welcome to the repository for our dynamic e-commerce platform, designed for the sale of new and used mobiles and laptops. Below are key highlights of our project:
 
 ## Table of Contents
-
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Angular Integration](#angular-integration)
 - [Security Measures](#security-measures)
@@ -12,10 +10,6 @@ Welcome to the repository for our dynamic e-commerce platform, designed for the 
 - [Clean Code Practices](#clean-code-practices)
 - [Outcome](#outcome)
 - [Contributing](#contributing)
-
-## Demo
-
-https://drive.google.com/file/d/1N_Lzhk2m1xJlMj8bhJcYBcmOSXuyMQQZ/view?usp=sharing
 
 ## Technologies
 
